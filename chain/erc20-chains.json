@@ -1,5 +1,4 @@
 [
-    "althea",
     "arbitrum",
     "avalanche",
     "base",
@@ -8,11 +7,12 @@
     "cronos",
     "ethereum",
     "evmos",
+    "haqq",
     "kava",
     "kaia",
     "okc",
     "optimism",
     "polygon",
-    "xpla",
-    "zeta"
+    "zeta",
+    "berachain-testnet"
 ]
